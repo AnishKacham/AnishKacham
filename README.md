@@ -1,7 +1,9 @@
-### Hi, I'm Anish Kacham 👋 
- ---
-![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)    
-under construction 🛠️
+<div align="center"><h1>Hi, I'm Anish Kacham 👋</h1> </div>
+
+
+<href align="center">![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)</href>    
+<div align="center">work in progress 🛠️</div>
+
 <!--
 **AnishKacham/AnishKacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
