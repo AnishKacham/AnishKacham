@@ -1,8 +1,8 @@
 <div align="center"><h1>Hi, I'm Anish Kacham 👋</h1> </div>
 
 
-<href align="center">![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)</href> ![Commits Badge](https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)
-<div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>
+![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)</href> ![Commits Badge](https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)
+<div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>   
 
 
 <!--
