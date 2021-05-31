@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/channels/@me/608627565619576843"><img  src="/assets/discord.svg" height="22px"/></a> &nbsp
-  <a href="https://discord.com/channels/@me/608627565619576843"><img src="/assets/spotify.svg" height="22px"/></a> &nbsp
+  <a href="https://open.spotify.com/user/3vgla5jjt2tyl9mx1quiciwio?si=-aZ8SCVxSG21Rqi-mg0g_A"><img src="/assets/spotify.svg" height="22px"/></a> &nbsp
   <a href="https://www.facebook.com/anish.kacham/"><img src="/assets/facebook.svg" height="22px"/></a> 
 </p>
 
