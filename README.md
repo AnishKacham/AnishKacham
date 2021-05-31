@@ -1,6 +1,6 @@
 ### Hi, I'm Anish Kacham 👋 
  ---
-![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)
+![Visits Badge](https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D)    
 under construction 🛠️
 <!--
 **AnishKacham/AnishKacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
