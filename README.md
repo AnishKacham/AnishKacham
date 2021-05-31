@@ -3,7 +3,9 @@
 <p align="center">
  <img alt="visits" src="https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/> <img alt="commits" src="https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/>
 </p>
-
+<p align="center">
+  <img src="/assets/discord.svg" height=22px/> &nbsp &nbsp<img src="/assets/spotify.svg" height=22px/>
+</p>
 
 <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>   
 
