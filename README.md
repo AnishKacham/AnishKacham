@@ -4,7 +4,7 @@
  <img alt="visits" src="https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/> <img alt="commits" src="https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/>
 </p>
 <p align="center">
-  <img src="/assets/discord.svg" height="22px"/> &nbsp &nbsp
+  <img href="https://discord.com/channels/@me/608627565619576843" src="/assets/discord.svg" height="22px"/> &nbsp &nbsp
   <img src="/assets/spotify.svg" height="22px"/> &nbsp &nbsp
   <img src="/assets/facebook.svg" height="22px"/> 
 </p>
