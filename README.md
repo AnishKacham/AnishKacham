@@ -11,7 +11,10 @@
   <a href="https://www.instagram.com/_.o0anish0o._/"><img src="/assets/instagram.svg" height="22px"/></a> &nbsp  
 </p>
 <div align="center"><img src="assets/pushpin.svg" height="13px"/> Hyderabad, India </div>
+<div align="center"><h3>Welcome to my github page. I'm currently pursuing my bachelor's degree in Computer Science from BITS Pilani</h3></div>
+<hr/>
 <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>   
+
 
 
 <!--
