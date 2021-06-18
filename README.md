@@ -20,7 +20,7 @@
 - 🧑‍🤝‍🧑 Looking to collaborate on web development and machine learning projects 
 - 📺 Novice anime wathcher 
 - 🥏 Ask me about Ultimate 
-- 🎨 Design and UI/UX enthusiast (I like my colors :p) 
+- 🎨 I like staring at pretty themes and aesthetic colors 
 
 
 
