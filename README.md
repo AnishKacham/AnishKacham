@@ -13,8 +13,15 @@
 </p>
 <div align="center"><img src="assets/pushpin.svg" height="13px"/> Hyderabad, India </div>
 <div align="center"><h3>Welcome to my github page. I'm currently pursuing my bachelor's degree in Computer Science from BITS Pilani</h3></div>
-<hr/>
-<div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>   
+<hr></hr>  
+
+<!-- <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>    -->
+- 🌱 I'm currently currently learning MERN Stack and C++ 
+- 🧑‍🤝‍🧑 Looking to collaborate on web development and machine learning projects 
+- 📺 Novice anime wathcher 
+- 🥏 Ask me about Ultimate 
+- 🎨 Design and UI/UX enthusiast (I like my colors :p) 
+
 
 
 
