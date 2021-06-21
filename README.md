@@ -16,7 +16,7 @@
 <hr></hr>  
 
 <!-- <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>    -->
-- 🌱 I'm currently currently learning MERN Stack and C++ 
+- 🌱 I'm currently currently learning C++ and Machine Learning in Python
 - 🧑‍🤝‍🧑 Looking to collaborate on web development and machine learning projects 
 - 📺 Novice anime wathcher 
 - 🥏 Ask me about Ultimate 
