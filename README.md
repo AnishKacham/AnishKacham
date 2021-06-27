@@ -1,7 +1,7 @@
 <!-- <div align="center"><h1>Hi, I'm Anish Kacham 👋</h1> </div> -->
-<img src="/bannerhqSmallLetter-01.png"/>
+<!-- <img src="/bannerhqSmallLetter-01.png"/> -->
 <p align="center">
-<!--  <img alt="visits" src="https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/> <img alt="commits" src="https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/> -->
+ <img alt="visits" src="https://badges.pufler.dev/visits/AnishKacham/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/> <img alt="commits" src="https://badges.pufler.dev/commits/yearly/AnishKacham?style=for-the-badge&color=F8B195&labelColor=355C7D"/>
 </p>
 <p align="center">
   <a href="mailto:kachamanish1995@gmail.com"><img src="/assets/gmail.svg" height="22px"/></a> &nbsp
