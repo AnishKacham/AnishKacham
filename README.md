@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/anish-kumar-kacham-78b390193/"><img src="/assets/linkedin.svg" height="22px"/></a> &nbsp  
 </p>
 <div align="center"><img src="assets/pushpin.svg" height="13px"/> Hyderabad, India </div>
-<div align="center"><h3>Welcome to my github page. I'm currently pursuing my bachelor's degree in Computer Science from BITS Pilani</h3></div>
+<div align="center">Welcome to my github page. I'm currently pursuing my bachelor's degree in Computer Science from BITS Pilani</div>
 <hr></hr>  
 
 <!-- <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>    -->
