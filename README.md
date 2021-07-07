@@ -22,9 +22,6 @@
 - 🥏 Ask me about Ultimate 
 - 🎨 I like staring at pretty themes and aesthetic colors 
 
-
-
-
 <!--
 **AnishKacham/AnishKacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
