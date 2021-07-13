@@ -13,7 +13,7 @@
 </p>
 <div align="center"><img src="assets/pushpin.svg" height="13px"/> Hyderabad, India </div>
 <div align="center">Welcome to my github page. I'm currently pursuing my bachelor's degree in Computer Science from BITS Pilani</div>
-<hr></hr>  
+<h1></h1>
 
 <!-- <div align="center"><h3>.o0 work in progress 🛠️ 0o. </h3></div>    -->
 - 🌱 I'm currently currently learning C++ and Machine Learning in Python
