@@ -3,11 +3,11 @@
 <img align="right" src="https://skillicons.dev/icons?i=cpp,typescript,docker,react,nestjs,mongodb,git,postman,nodejs&perline=3" />
 
 
-- 🏛️ I'm a Computer Science Undergrad from BITS Hyderabad
+- 🏛️ I'm a Computer Science Undergrad from [BITS Hyderabad](https://www.bits-pilani.ac.in/)
 - 🖥️ Love making innovative products through code 
 - 🥏 Playing sports and especially Ultimate Frisbee, is an escape.  
   [watch me and my team here!](https://www.youtube.com/watch?v=cmuwg8XMyVg)
-- 💼 Interning currently at a fintech startup called [actyv.ai](https://www.actyv.ai/)
+- 💼 Incoming Full Time SDE @ [NCR Corp.](https://www.ncr.com/)
 - 📜 I speak English, Hindi and Telugu fluently and am learning German and Spanish from duo.  
   [Add me as a friend and we can compete!](https://www.duolingo.com/profile/stickysheefu?via=share_profile)  
 - 💬 Hit me up if you have anything interesting in mind [here]()
