@@ -1,11 +1,11 @@
 <h3 align="center">Hello</h3>
-<h6 align="center">
+<h5 align="center">
   <a href="https://anish-v1.vercel.app/">Website</a>
   ·
   <a href="https://drive.google.com/file/d/1ZuoquaYrOLihQmgd4GyvG5vvaYu51U9I/view?usp=sharing">Resume</a>
   ·
   <a href="https://anish-v1.vercel.app/blog">Blog</a>
-</h6>
+</h5>
 
 &nbsp;
 
