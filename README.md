@@ -29,6 +29,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=auto>  
 
 ### Sites live, that I've built:
-- https://anish-kacham-aircall.netlify.app/
+- https://anish-kacham-aircall.netlify.app/ (as an assignment for an opening of Full Stack Engineer at Speer)
 - https://anish-kacham.vercel.app/
-- https://zeptofe-anish.vercel.app/
+- https://zeptofe-anish.vercel.app/ (as an assignment for an opening of Frontend Engineer at Zepto)
