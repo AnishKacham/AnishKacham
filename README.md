@@ -11,7 +11,7 @@
 
 <img align="right" src="https://skillicons.dev/icons?i=cpp,typescript,docker,react,nestjs,mongodb,git,postman,nodejs&perline=3" />
 
-- 🏛️ I'm a Computer Science Undergrad from **[BITS Hyderabad](https://www.bits-pilani.ac.in/)**
+- 🏛️ I'm a Computer Science Undergrad from **[BITS Pilani](https://www.bits-pilani.ac.in/)**
 - 🖥️ Love making innovative products through code 
 - 🥏 Playing sports and especially Ultimate Frisbee, is an escape. **[Watch me and my team here!](https://www.youtube.com/watch?v=cmuwg8XMyVg)**
 - 💼 Full Time SW Engineer I @ **[NCR Corp.](https://www.ncr.com/)**
