@@ -14,7 +14,7 @@
 - 🏛️ I'm a Computer Science Undergrad from **[BITS Pilani](https://www.bits-pilani.ac.in/)**
 - 🖥️ Love making innovative products through code 
 - 🥏 Playing sports and especially Ultimate Frisbee, is an escape. **[Watch me and my team here!](https://www.youtube.com/watch?v=cmuwg8XMyVg)**
-- 💼 Full Time SW Engineer I @ **[NCR Corp.](https://www.ncr.com/)**
+- 💼 Full Time SW Engineer @ **[SingleStore](https://www.SingleStore.com/)**
 - 📜 I speak English, Hindi and Telugu fluently  
   and am learning German from duo. **[Add me as a friend and we can compete!](https://www.duolingo.com/profile/stickysheefu?via=share_profile)**  
 - 💬 Hit me up if you have anything interesting in mind **[Here](mailto:anish.k.kacham@gmail.com)**
