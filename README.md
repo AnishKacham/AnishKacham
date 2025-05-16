@@ -9,7 +9,7 @@
 
 &nbsp;
 
-<img align="right" src="https://skillicons.dev/icons?i=cpp,typescript,docker,react,nestjs,mongodb,git,postman,nodejs&perline=3" />
+<!--<img align="right" src="https://skillicons.dev/icons?i=cpp,typescript,docker,react,nestjs,mongodb,git,postman,nodejs&perline=3" />-->
 
 - 🏛️ I'm a Computer Science Undergrad from **[BITS Pilani](https://www.bits-pilani.ac.in/)**
 - 🖥️ Love making innovative products through code 
@@ -18,7 +18,7 @@
 - 📜 I speak English, Hindi and Telugu fluently  
   and am learning German from duo. **[Add me as a friend and we can compete!](https://www.duolingo.com/profile/stickysheefu?via=share_profile)**  
 - 💬 Hit me up if you have anything interesting in mind **[Here](mailto:anish.k.kacham@gmail.com)**
-
+</>
 <!-- ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
